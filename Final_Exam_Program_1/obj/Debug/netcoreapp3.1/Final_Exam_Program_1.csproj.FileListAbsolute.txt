@@ -1,0 +1,13 @@
+C:\Humber College\Exam\Final_Exam_Program_1\Final_Exam_Program_1\bin\Debug\netcoreapp3.1\Final_Exam_Program_1.exe
+C:\Humber College\Exam\Final_Exam_Program_1\Final_Exam_Program_1\bin\Debug\netcoreapp3.1\Final_Exam_Program_1.deps.json
+C:\Humber College\Exam\Final_Exam_Program_1\Final_Exam_Program_1\bin\Debug\netcoreapp3.1\Final_Exam_Program_1.runtimeconfig.json
+C:\Humber College\Exam\Final_Exam_Program_1\Final_Exam_Program_1\bin\Debug\netcoreapp3.1\Final_Exam_Program_1.runtimeconfig.dev.json
+C:\Humber College\Exam\Final_Exam_Program_1\Final_Exam_Program_1\bin\Debug\netcoreapp3.1\Final_Exam_Program_1.dll
+C:\Humber College\Exam\Final_Exam_Program_1\Final_Exam_Program_1\bin\Debug\netcoreapp3.1\Final_Exam_Program_1.pdb
+C:\Humber College\Exam\Final_Exam_Program_1\Final_Exam_Program_1\obj\Debug\netcoreapp3.1\Final_Exam_Program_1.csprojAssemblyReference.cache
+C:\Humber College\Exam\Final_Exam_Program_1\Final_Exam_Program_1\obj\Debug\netcoreapp3.1\Final_Exam_Program_1.AssemblyInfoInputs.cache
+C:\Humber College\Exam\Final_Exam_Program_1\Final_Exam_Program_1\obj\Debug\netcoreapp3.1\Final_Exam_Program_1.AssemblyInfo.cs
+C:\Humber College\Exam\Final_Exam_Program_1\Final_Exam_Program_1\obj\Debug\netcoreapp3.1\Final_Exam_Program_1.csproj.CoreCompileInputs.cache
+C:\Humber College\Exam\Final_Exam_Program_1\Final_Exam_Program_1\obj\Debug\netcoreapp3.1\Final_Exam_Program_1.dll
+C:\Humber College\Exam\Final_Exam_Program_1\Final_Exam_Program_1\obj\Debug\netcoreapp3.1\Final_Exam_Program_1.pdb
+C:\Humber College\Exam\Final_Exam_Program_1\Final_Exam_Program_1\obj\Debug\netcoreapp3.1\Final_Exam_Program_1.genruntimeconfig.cache
