@@ -18,9 +18,13 @@ namespace Final_Exam_Program_1
 
         public List<T> sort()
         {
-            sampleList.OrderByDescending<T,T>(key => {
+            sampleList.OrderByDescending<T, List<T>>(key =>
+            {
+                sampleList.Sort();
                 return sampleList;
-            })
+                
+            });
+            return sampleList;
         }
     }
     class Program
